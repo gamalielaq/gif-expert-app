@@ -7,4 +7,4 @@ In the project directory, you can run:
 ### `npm start`
 
 
-## Initial Commit + segundo commit
+## Initial Commit
